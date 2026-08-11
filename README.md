@@ -1,18 +1,12 @@
-<p align="center">
-  <a href="https://opencode.ai">
-    <picture>
-      <source srcset="packages/console/app/src/asset/logo-ornate-dark.svg" media="(prefers-color-scheme: dark)">
-      <source srcset="packages/console/app/src/asset/logo-ornate-light.svg" media="(prefers-color-scheme: light)">
-      <img src="packages/console/app/src/asset/logo-ornate-light.svg" alt="OpenCode logo">
-    </picture>
-  </a>
-</p>
-<p align="center">The open source AI coding agent.</p>
-<p align="center">
-  <a href="https://opencode.ai/discord"><img alt="Discord" src="https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord" /></a>
-  <a href="https://www.npmjs.com/package/opencode-ai"><img alt="npm" src="https://img.shields.io/npm/v/opencode-ai?style=flat-square" /></a>
-  <a href="https://github.com/anomalyco/opencode/actions/workflows/publish.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/anomalyco/opencode/publish.yml?style=flat-square&branch=dev" /></a>
-</p>
+# buntycode
+
+```
+█▀▀▄ █  █ █▀▀▄ ▀█▀▀ █  █   █▀▀▀ █▀▀█ █▀▀█ █▀▀█
+█▀▀█ █__█ █__█  █   ▀▀█   █___ █__█ █__█ █^^^
+█▀▀▀ ▀▀▀▀ ▀~~▀  ▀█  ▀▀    ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀
+```
+
+Fork of [opencode](https://github.com/anomalyco/opencode) (MIT) with the default system prompt tuned for self-hosted and abliterated models — everything else is upstream. The open source AI coding agent.
 
 <p align="center">
   <a href="README.md">English</a> |
